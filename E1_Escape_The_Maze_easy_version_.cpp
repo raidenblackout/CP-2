@@ -82,7 +82,3 @@ int main(){
     }
   }
 }
-
-//add github username and email command
-git config --global user.name "username"
-git config --global user.email "
