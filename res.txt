@@ -1,0 +1,8 @@
+  File: B_Odd_Grasshopper
+  Size: 58320     	Blocks: 120        IO Block: 4096   regular file
+Device: 810h/2064d	Inode: 95204       Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/   latin)   Gid: ( 1000/   latin)
+Access: 2021-11-21 20:44:28.588889219 +0600
+Modify: 2021-11-21 20:44:28.588889219 +0600
+Change: 2021-11-21 20:44:28.588889219 +0600
+ Birth: -
