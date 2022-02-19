@@ -1,0 +1,11 @@
+(ASSASSIN'S CREED: EMBERS, Animation, 7.6, 240.00),
+(Real Steel, Action, 7.00, 299.30),
+(La La Land, Drama, 8.00, 448.90),
+(Aquaman, Super Hero, 6.9, 1148.0),
+(Game of Thrones, Drama, 9.2, 228.00),
+(Breaking Bad, Drama, 9.4, 80.00),
+(Stranger Things, Sci-Fi, 8.7, 378.00)
+
+
+
+aaa

@@ -1,0 +1,1 @@
+{"name":"Local: manifa","url":"/home/latin/LABWORK/assignment/manifa.cpp","tests":[{"id":1641929962965,"input":"5 5\n0 1\n1 2\n2 3\n3 4\n4 0\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/latin/LABWORK/assignment/manifa.cpp","group":"local","local":true}

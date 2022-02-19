@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/latin/LABWORK/assignment/a.cpp","tests":[{"id":1641918559967,"input":"5 4\n0 1\n1 2\n2 3\n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/latin/LABWORK/assignment/a.cpp","group":"local","local":true}

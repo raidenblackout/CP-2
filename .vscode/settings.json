@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "type_traits": "cpp",
-        "bitset": "cpp"
-    }
+        "bitset": "cpp",
+        "istream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
